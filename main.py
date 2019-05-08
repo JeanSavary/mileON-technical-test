@@ -74,6 +74,4 @@ if __name__ == "__main__":
             avg_rating = product_df['reviews.rating'].mean()
         )
 
-    print(len(DATA))
-
     # -- Find the 3 most recommended products that John could buy -- #
